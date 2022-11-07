@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://annananaa.github.io</id>
+    <title>Gridea</title>
+    <updated>2022-11-07T13:06:58.582Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://annananaa.github.io"/>
+    <link rel="self" href="https://annananaa.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://annananaa.github.io/images/avatar.png</logo>
+    <icon>https://annananaa.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[猝不及防的阴历生日到来了]]></title>
+        <id>https://annananaa.github.io/post/cu-bu-ji-fang-de-yin-li-sheng-ri-dao-lai-liao/</id>
+        <link href="https://annananaa.github.io/post/cu-bu-ji-fang-de-yin-li-sheng-ri-dao-lai-liao/">
+        </link>
+        <updated>2022-11-06T16:19:27.000Z</updated>
+        <content type="html"><![CDATA[<p>周六上午从七点到九点，挣扎了无数次，终于决定爬起来，因为和薛约了十点的瑜伽课。迷糊之中发现老杨发了一个红包，原来今天是我的阴历生日。既往在生日之前，我都要向身边人反复念叨，今年还是第一次主动忘记了，大概是年龄大了吧。</p>
+<p>我向来是相信缘分这东西的，就好比这辈子第一次瑜伽课是在生日这一天，不可谓不浪漫。回寝室之后化了一个美美的妆，然后出门觅食。本来想去京鹿吃寿喜锅的，但是居然下架了，立马转身去了一家韩料店，点了一份芝士锅。事实证明我的饭量还是蛮小的，剩了半锅。</p>
+<p>晚上回去一边看路哥来的两期特优声，一边把很久之前买的柯哀积木拼完了。说实在的，第二季特优声没有第一季好看，可能是因为没有了淘汰机制，所以不够刺激，不过第一季过于刺激以致于每一期我都要哭上一次。这两期给我最直观的感受就是，女性配音演员真得很能打诶，笑鱼老师强大又温柔让人无比安心，奕雯姐太强了我唯一的姐，典典好可爱啊（焰灵姬是你，小舞是你，冉冰也是你）！</p>
+<p>积木是樱花树下小哀向柯南展示“大吉”占卜结果的那一幕，还是蛮经典的，我哀可真是好看。如果樱花没有让我拼了四个多小时的话，我想我会更开心。话说啥时候出秀哀的积木啊，我买爆！</p>
+<p>周日和姐妹们去私影看了电影，以此来弥补由于我睡过头而让姐妹们在烈日的寒风下等了我四个小时（无比羞愧.jpg）。突然发现私影的老板又开了一家游戏馆，我正在蠢蠢欲动。</p>
+<p>晚上去快乐小羊吃了火锅，小羊在快乐小羊里感到了快乐。</p>
+<figure data-type="image" tabindex="1"><a href="https://imgse.com/i/xjBTEV"><img src="https://s1.ax1x.com/2022/11/07/xjBTEV.jpg" alt="xjBTEV.jpg" loading="lazy"></a></figure>
+<p>点了一个芝士锅和一份炸鸡，发现一个人根本吃不到一半</p>
+<figure data-type="image" tabindex="2"><a href="https://imgse.com/i/xjDC4O"><img src="https://s1.ax1x.com/2022/11/07/xjDC4O.jpg" alt="xjDC4O.jpg" loading="lazy"></a></figure>
+<p>相差10岁的赵氏师徒</p>
+<figure data-type="image" tabindex="3"><a href="https://imgse.com/i/xjDiCD"><img src="https://s1.ax1x.com/2022/11/07/xjDiCD.jpg" alt="xjDiCD.jpg" loading="lazy"></a></figure>
+<p>拼了四个多小时的积木，到最后放飞自我随便拼了</p>
+<figure data-type="image" tabindex="4"><a href="https://imgse.com/i/xjDkgH"><img src="https://s1.ax1x.com/2022/11/07/xjDkgH.jpg" alt="xjDkgH.jpg" loading="lazy"></a></figure>
+<p>新买的墨绿色风衣，好喜欢！</p>
+<figure data-type="image" tabindex="5"><a href="https://imgse.com/i/xjDAvd"><img src="https://s1.ax1x.com/2022/11/07/xjDAvd.jpg" alt="xjDAvd.jpg" loading="lazy"></a></figure>
+<p>俩酒鬼在买酒</p>
+<figure data-type="image" tabindex="6"><a href="https://imgse.com/i/xjDZDI"><img src="https://s1.ax1x.com/2022/11/07/xjDZDI.jpg" alt="xjDZDI.jpg" loading="lazy"></a></figure>
+<p>快乐小羊，快乐！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://annananaa.github.io/post/hello-gridea/</id>
+        <link href="https://annananaa.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
